@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222352195757",
+    "project_id": "shared-reminders-b4321",
+    "storage_bucket": "shared-reminders-b4321.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222352195757:android:917ab0735ea613930a0624",
+        "android_client_info": {
+          "package_name": "com.smd.shared"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqTxWZV0h8LvfX3QNUQ0Z7YIUnx7UVWK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
